@@ -210,7 +210,7 @@ Across nine systematically selected nCRT cohorts, pretreatment interferon activa
 
 ## Statements
 
-**Data availability.** All source cohorts are public through GEO: GSE209746, GSE35452, GSE87211, GSE150082, GSE45404, GSE119409, GSE133057, GSE53781, GSE94104 and GSE56699. The GSE56699 processed matrix, SDRF and ADF came from the official ArrayExpress/BioStudies record E-GEOD-56699. TCGA-READ was obtained through UCSC Xena. Analysis code, cohort-level feature tables, label provenance, derived-table mappings and manuscript source are available at https://github.com/Bizhi-Wei/larc-ncrt-ifn-meta (release tag v1.0.2). Large public raw matrices and serialized objects are not redistributed; accession-level download instructions are given in the repository README. A Zenodo archive DOI for this exact GitHub release will be linked in the final proof after repository archival is enabled.
+**Data availability.** All source cohorts are public through GEO: GSE209746, GSE35452, GSE87211, GSE150082, GSE45404, GSE119409, GSE133057, GSE53781, GSE94104 and GSE56699. The GSE56699 processed matrix, SDRF and ADF came from the official ArrayExpress/BioStudies record E-GEOD-56699. TCGA-READ was obtained through UCSC Xena. Analysis code, cohort-level feature tables, label provenance, derived-table mappings and manuscript source are archived at https://doi.org/10.5281/zenodo.22723595 (version DOI; concept DOI https://doi.org/10.5281/zenodo.22723594) and developed at https://github.com/Bizhi-Wei/larc-ncrt-ifn-meta (release v1.0.3). Large public raw matrices and serialized objects are not redistributed; accession-level download instructions are given in the repository README.
 
 **Ethics.** Not required because this study re-analyzed de-identified public data.
 
