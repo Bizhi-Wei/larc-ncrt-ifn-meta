@@ -1,5 +1,7 @@
 # LARC nCRT interferon meta-analysis (code + derived tables)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22723595.svg)](https://doi.org/10.5281/zenodo.22723595)
+
 Reproducible analysis pipeline for:
 
 > **Pretreatment interferon activation and cytotoxic immune enrichment are associated with response to neoadjuvant chemoradiotherapy in locally advanced rectal cancer: a systematic multi-cohort transcriptomic meta-analysis**
@@ -73,8 +75,12 @@ python audit_meta.py                 # independent numeric audit (after CSVs exi
 
 ## Citation
 
-Please cite the manuscript and this repository (see `CITATION.cff`).  
-After the first Zenodo–GitHub archival release, replace the repository URL in the manuscript Data availability statement with the Zenodo DOI.
+Please cite the manuscript and this software archive:
+
+- Version DOI: [10.5281/zenodo.22723595](https://doi.org/10.5281/zenodo.22723595)
+- Concept DOI (all versions): [10.5281/zenodo.22723594](https://doi.org/10.5281/zenodo.22723594)
+
+See `CITATION.cff` and `ZENODO.md`.
 
 ## License
 
