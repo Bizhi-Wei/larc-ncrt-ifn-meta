@@ -1,0 +1,6 @@
+"model","stat"
+"DFS_univariate_IFN","HR=0.893 P=0.5117"
+"DFS_multivar_A_IFN","HR=1.049 P=0.8047"
+"DFS_multivar_B_IFN","HR=1.041 P=0.8359"
+"DFS_nonlinearity_LR","P=0.4365"
+"DFS_OS_multivar_IFN","HR=0.936 P=0.8018"

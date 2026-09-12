@@ -1,0 +1,17 @@
+# Large public inputs and local artifacts (not shipped)
+*.gz
+*.rds
+*.log
+*.aux
+*.out
+Rplots.pdf
+.Rhistory
+.RData
+__pycache__/
+new_cohorts/
+scort/
+GEO2R_archive_*/
+LARC_IFN_submission*/
+qa_tmp/
+.DS_Store
+Thumbs.db

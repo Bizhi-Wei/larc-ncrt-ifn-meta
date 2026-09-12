@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or the derived tables, please cite the accompanying manuscript and this repository."
+title: "Pretreatment interferon activation and cytotoxic immune enrichment are associated with response to neoadjuvant chemoradiotherapy in locally advanced rectal cancer: a systematic multi-cohort transcriptomic meta-analysis"
+version: "1.0.0"
+date-released: "2026-09-12"
+authors:
+  - family-names: Wei
+    given-names: Bizhi
+    email: 15619056250wbz@gmail.com
+    orcid: "https://orcid.org/0009-0008-9481-3024"
+    affiliation: "Puai Medical College, Shaoyang University"
+license: MIT
+repository-code: "https://github.com/Bizhi-Wei/larc-ncrt-ifn-meta"
+keywords:
+  - rectal cancer
+  - neoadjuvant chemoradiotherapy
+  - interferon
+  - transcriptomics
+  - meta-analysis
+  - GEO
+abstract: >-
+  Reproducible R pipeline for a systematic multi-cohort reanalysis of pretreatment
+  bulk transcriptomes in locally advanced rectal cancer treated with neoadjuvant
+  chemoradiotherapy. Nine nCRT cohorts (n=577) form the primary random-effects
+  meta-analysis of interferon, cytotoxic-lymphocyte and NK-cell scores against
+  pathological/clinical response; a radiotherapy-only cohort enters a
+  treatment-scope sensitivity analysis.

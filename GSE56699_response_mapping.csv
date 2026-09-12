@@ -1,0 +1,73 @@
+"assay","patient_code","sample_type","mandard","response_3_classes","response_binary","included_array","exclusion_reason","origin","diagnosis","patient_array_count"
+"GSM1367022","RCa0022","PB",2,"CR","good",TRUE,"","ROMANIA","Adenocarcinoma moderatamente differenziato e invasivo (G2)",1
+"GSM1367021","RCa0021","PB",5,"RES","poor",TRUE,"","ROMANIA","Adenocarcinoma di grado ridotto",1
+"GSM1367020","RCa0020","PB",5,"PR-RES","poor",TRUE,"","ROMANIA","1) Adenoma tubulare con displasie di grado ridotto; 2) Polipo misto, iperplasico e adenomatoso con displasie di grado ridotto; 3) Adenocarcinoma poco differenziato",1
+"GSM1367019","RCa0019","PB",5,"RES","poor",TRUE,"","ROMANIA","Adenocarcinoma poco differenziato G3",1
+"GSM1367018","RCa0018","PB",3,"PR","poor",TRUE,"","ROMANIA","1) Polipo valvola ileo-cecale; 2) Micropolipi colon trasverso; 3) Polipo; 4) Adenocarcinoma moderatamente differenziato (G2)",1
+"GSM1367017","RCa0017","PB",2,"CR","good",TRUE,"","ROMANIA","Adenocarcinoma Tubulare G2",1
+"GSM1367016","RCa0065","PB",4,"RES","poor",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1367015","RCa0064","PB",1,"CR","good",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1367014","RCa0059","PB",4,"RES","poor",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1367013","RCa0058","PB",2,"CR","good",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1367012","RCa0054","PB",2,"CR","good",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1367011","RCa0049","PB",4,"RES","poor",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1367010","RCa0048","PB",1,"CR","good",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1367009","RCa0047","PB",4,"RES","poor",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1367008","RCa0046","PB",1,"CR","good",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1367007","RCa0045","PB",2,"CR","good",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1367006","RCa0044","PB",4,"RES","poor",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1367005","RCa0043","PB",3,"PR","poor",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1367004","RCa0042","PB",2,"CR","good",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1367003","RCa0041","PB",2,"CR","good",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1367002","RCa0040","PB",2,"CR","good",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1367001","RCa0039","PB",4,"RES","poor",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1367000","RCa0038","PB",4,"RES","poor",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1366999","RCa0037","PB",1,"CR","good",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1366998","RCa0036","PB",1,"CR","good",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1366997","RCa0035","PB",1,"CR","good",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1366996","RCa0034","PB",3,"PR","poor",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1366995","RCa0033","PB",1,"CR","good",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1366994","RCa0032","PB",5,"RES","poor",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1366993","RCa0031","PB",3,"PR","poor",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1366992","RCa0030","PB",4,"RES","poor",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1366991","RCa0029","PB",4,"RES","poor",TRUE,"","MOLINETTE","adenocarcinoma",1
+"GSM1366990","RCa0028","PB",1,"CR","good",TRUE,"","IRCC",NA,1
+"GSM1366989","RCa0027","PB",4,"RES","poor",TRUE,"","IRCC",NA,1
+"GSM1366988","RCa0026","PB",4,"RES","poor",TRUE,"","IRCC",NA,1
+"GSM1366987","RCa0024","PB",4,"RES","poor",TRUE,"","IRCC",NA,2
+"GSM1366986","RCa0024","PB",4,"RES","poor",TRUE,"","IRCC",NA,2
+"GSM1366985","RCa0016","SS",NA,"CR",NA,FALSE,"post-treatment surgical specimen","BELGIO","No residual tumorcells found in ulcus",4
+"GSM1366984","RCa0016","SS",NA,"CR",NA,FALSE,"post-treatment surgical specimen","BELGIO","No residual tumorcells found in ulcus",4
+"GSM1366983","RCa0016","PB",1,"CR","good",TRUE,"","BELGIO","Tubulovilleus adenoma with invasion in the submucosa (at least pT1)",4
+"GSM1366982","RCa0016","PB",1,"CR","good",TRUE,"","BELGIO","Tubulovilleus adenoma with invasion in the submucosa (at least pT1)",4
+"GSM1366981","RCa0015","PB",4,"PD","poor",TRUE,"","BELGIO","Invasive well differentiated adenocarcinoma (cilinder cells)",3
+"GSM1366980","RCa0015","SS",NA,"PD",NA,FALSE,"post-treatment surgical specimen","BELGIO","Transmural invasive moderately differentiated adenocarcinoma (intestinal type)",3
+"GSM1366979","RCa0015","SS",NA,"PD",NA,FALSE,"post-treatment surgical specimen","BELGIO","Transmural invasive moderately differentiated adenocarcinoma (intestinal type)",3
+"GSM1366978","RCa0014","PB",3,"PD-SD","poor",TRUE,"","BELGIO","invasive, moderately differentiated adenocarcinoma (cilinder cells)",2
+"GSM1366977","RCa0014","SS",NA,"PD-SD",NA,FALSE,"post-treatment surgical specimen","BELGIO","Transmural invasive moderately differentiated adenocarcinoma (cilinder cells)",2
+"GSM1366976","RCa0013","PB",4,"SD","poor",TRUE,"","BELGIO","Invasive, moderately differentiated adenorcarcinoma, at least intramucosaal",2
+"GSM1366975","RCa0013","SS",NA,"SD",NA,FALSE,"post-treatment surgical specimen","BELGIO","Invasive, moderately differentiated adenocarcinoma",2
+"GSM1366974","RCa0012","PB",1,"CR","good",TRUE,"","BELGIO","Tubular adenoma with moderate dysplasia",1
+"GSM1366973","RCa0011","PB",1,"CR","good",TRUE,"","BELGIO","Invasive adenocarcinoma",1
+"GSM1366972","RCa0010","SS",NA,"CR",NA,FALSE,"post-treatment surgical specimen","BELGIO","The major part of the tumor is a tubular villus adenoma, with limited parts of well differantiated intramucosaal invasive adenocarcinoma",2
+"GSM1366971","RCa0010","PB",1,"CR","good",TRUE,"","BELGIO","Invasive adenocarcinoma (grade op invasion not to be determined)",2
+"GSM1366970","RCa0009","PB",NA,"CR",NA,FALSE,"pretreatment biopsy without Mandard grade","BELGIO","Adenocarcinom, at least intramucosaal (no surgical specimen available)",1
+"GSM1366969","RCa0008","PB",1,"CR","good",TRUE,"","BELGIO","Invasive adenocarcinoma",1
+"GSM1366968","RCa0007","PB",4,"SD","poor",TRUE,"","BELGIO","Poorly differentiated invasive adenocarcinoma",3
+"GSM1366967","RCa0007","PB",4,"SD","poor",TRUE,"","BELGIO","Poorly differentiated invasive adenocarcinoma",3
+"GSM1366966","RCa0007","SS",NA,"SD",NA,FALSE,"post-treatment surgical specimen","BELGIO","Low-grade adenocarcinoma with invasion of the perirectal fat",3
+"GSM1366965","RCa0006","PB",1,"CR","good",TRUE,"","BELGIO","Poorly differentiated invasive adenocarcinoma (no surgical specimen available)",2
+"GSM1366964","RCa0006","PB",1,"CR","good",TRUE,"","BELGIO","Poorly differentiated invasive adenocarcinoma (no surgical specimen available)",2
+"GSM1366963","RCa0005","PB",3,"PD-SD","poor",TRUE,"","BELGIO","Maderately differentiated adenocarcinoma",2
+"GSM1366962","RCa0005","SS",NA,"PD-SD",NA,FALSE,"post-treatment surgical specimen","BELGIO","Low-grade adenocarcinoma",2
+"GSM1366961","RCa0004","PB",3,"SD-PR","poor",TRUE,"","BELGIO","Invasive, moderately to bad differentiated adenocarcinoma",2
+"GSM1366960","RCa0004","SS",NA,"SD-PR",NA,FALSE,"post-treatment surgical specimen","BELGIO","Transmural invasive moderately to bad differentiated adenocarcinoma",2
+"GSM1366959","RCa0003","SS",NA,"CR",NA,FALSE,"post-treatment surgical specimen","BELGIO","Transmural scare, without any residual vital tumor tissue",4
+"GSM1366958","RCa0003","PB",1,"CR","good",TRUE,"","BELGIO","Moderately differentiated adenocarcinoma",4
+"GSM1366957","RCa0003","PB",1,"CR","good",TRUE,"","BELGIO","Moderately differentiated adenocarcinoma",4
+"GSM1366956","RCa0003","PB",1,"CR","good",TRUE,"","BELGIO","Moderately differentiated adenocarcinoma",4
+"GSM1366955","RCa0002","PB",4,"SD","poor",TRUE,"","BELGIO","Invasive moederately differentiated adeocarcinoma",3
+"GSM1366954","RCa0002","SS",NA,"RES",NA,FALSE,"post-treatment surgical specimen","BELGIO","Transmural invasive moderately differentiated adenocarcinoma",3
+"GSM1366953","RCa0002","SS",NA,NA,NA,FALSE,"post-treatment surgical specimen","BELGIO","Transmural invasive moderately differentiated adenocarcinoma",3
+"GSM1366952","RCa0001","PB",3,"PR","poor",TRUE,"","BELGIO","Tubulovilleus adenoma",2
+"GSM1366951","RCa0001","SS",NA,"PR",NA,FALSE,"post-treatment surgical specimen","BELGIO","Invasive low grade adenocarcinoma of the rectum",2

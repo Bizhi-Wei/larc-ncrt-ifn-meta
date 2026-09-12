@@ -1,0 +1,4 @@
+"model","n","events","cindex","ifn_hr","ifn_ci","ifn_p","lr_vs_prev_p"
+"M1: ypT+ypN",175,34,0.675,NA,NA,NA,NA
+"M2: M1+IFN",175,34,0.68,1.066,"0.73-1.55",0.74,NA
+"M3: M2+age+sex",175,34,0.713,1.049,"0.72-1.53",0.807,NA

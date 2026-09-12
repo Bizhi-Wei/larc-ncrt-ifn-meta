@@ -1,0 +1,4 @@
+"feature","Q_total","Q_within","Q_between","df_between","p_between","note"
+"IFN",8.12241600827955,8.10307052635488,0.0193454819246739,1,0.889380581747146,"exploratory; underpowered; do not interpret NS as equivalence"
+"NK",7.79356552855039,6.06489256824165,1.72867296030874,1,0.188580461535925,"exploratory; underpowered; do not interpret NS as equivalence"
+"Cyto",6.21809627921979,4.9685111276192,1.24958515160059,1,0.263631725866471,"exploratory; underpowered; do not interpret NS as equivalence"

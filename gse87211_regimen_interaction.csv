@@ -1,0 +1,4 @@
+"feature","n","beta_good_vs_poor","se_good_vs_poor","p_good_vs_poor","beta_interaction","se_interaction","p_interaction","model"
+"IFN",202,0.434638173241816,0.234905721055605,0.0657651288524144,0.147895153051988,0.377537021365151,0.69567396458345,"z(score) ~ response * regimen (fluoropyrimidine_CRT reference)"
+"NK",202,0.470580553506233,0.233629568688513,0.0453399142099374,0.0979412402190129,0.375486008042381,0.794488072151141,"z(score) ~ response * regimen (fluoropyrimidine_CRT reference)"
+"Cyto",202,0.342958793061789,0.233090348235433,0.142782499853928,0.498438243349337,0.374619380857653,0.18487761356745,"z(score) ~ response * regimen (fluoropyrimidine_CRT reference)"

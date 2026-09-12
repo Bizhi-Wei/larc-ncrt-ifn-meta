@@ -1,0 +1,7 @@
+"feature","method","hedges_g","correlation_with_primary"
+"IFN","mean_log2_expression_then_score",-0.31744361173544,1
+"IFN","score_each_array_then_mean",-0.311255037359516,0.994298642533937
+"NK","mean_log2_expression_then_score",-0.186090160224652,1
+"NK","score_each_array_then_mean",-0.17908734061175,0.997918552036199
+"Cyto","mean_log2_expression_then_score",-0.157177804208403,1
+"Cyto","score_each_array_then_mean",-0.152947421281889,0.998552036199095

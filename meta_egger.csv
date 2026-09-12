@@ -1,0 +1,4 @@
+"feature","k","egger_intercept","egger_t","egger_p","note"
+"IFN",9,-0.83044591554812,-0.573723514072779,0.584109265587088,"k=9; low power; interpret cautiously"
+"NK",9,-1.69368525089303,-1.27841308073716,0.241856878477027,"k=9; low power; interpret cautiously"
+"Cyto",9,-2.33024142164149,-2.37023606732275,0.0495889976427429,"k=9; low power; interpret cautiously"
